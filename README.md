@@ -1,5 +1,7 @@
 # Apple-recognition neural network
 
+**Program originally written in January 2021. Project mostly based on code from Michael Nielson's book 'Neural Networks and Deep Learning'.**
+
 This neural network recognizes if an input image contains an apple or not. 
 
 The parts of the code for the neural network come from https://github.com/mnielsen/neural-networks-and-deep-learning.
